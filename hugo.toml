@@ -1,0 +1,4 @@
+baseURL = 'https://k8s.rocks/'
+languageCode = 'en-us'
+title = 'K8S Rocks!'
+theme = 'ananke'
